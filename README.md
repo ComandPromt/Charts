@@ -1,1 +1,3 @@
 # Charts
+- Chartjs
+- Canvasjs
